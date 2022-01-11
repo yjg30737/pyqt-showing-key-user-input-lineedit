@@ -39,3 +39,6 @@ Result
 
 https://user-images.githubusercontent.com/55078043/148883096-bc043792-2bcc-4ec3-ad62-350922d5e473.mp4
 
+This QLineEdit show the key you pressed whether it is combination key or not.
+
+Of course if you pressed Ctrl+Alt+Delete you will see the task manager or something.
